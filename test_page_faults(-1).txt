@@ -1,0 +1,29 @@
+Logical Address : 100
+Page Number     : 0
+Offset          : 100
+Frame Number    : 0
+Physical Address: 100
+Status          : OK
+----------------------------------------
+Logical Address : 800
+Page Number     : 1
+Offset          : 288
+Frame Number    : -
+Physical Address: -
+Status          : Page Fault Occurred
+----------------------------------------
+Logical Address : 1600
+Page Number     : 3
+Offset          : 64
+Frame Number    : -
+Physical Address: -
+Status          : Page Fault Occurred
+----------------------------------------
+Logical Address : 2000
+Page Number     : 3
+Offset          : 464
+Frame Number    : -
+Physical Address: -
+Status          : Page Fault Occurred
+----------------------------------------
+

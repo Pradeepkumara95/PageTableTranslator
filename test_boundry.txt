@@ -1,0 +1,29 @@
+Logical Address : 0
+Page Number     : 0
+Offset          : 0
+Frame Number    : 2
+Physical Address: 2048
+Status          : OK
+----------------------------------------
+Logical Address : 1023
+Page Number     : 0
+Offset          : 1023
+Frame Number    : 2
+Physical Address: 3071
+Status          : OK
+----------------------------------------
+Logical Address : 1024
+Page Number     : 1
+Offset          : 0
+Frame Number    : 1
+Physical Address: 1024
+Status          : OK
+----------------------------------------
+Logical Address : 2047
+Page Number     : 1
+Offset          : 1023
+Frame Number    : 1
+Physical Address: 2047
+Status          : OK
+----------------------------------------
+
